@@ -1,0 +1,15 @@
+Employee_ID,FirstName,LastName,Education,Occupation,YearlyIncome,Sales,DOJ
+1,John,Yang, Bachelors   ,Professional,90000,3578.27,01-May-21
+2,Rob,Johnson,Bachelors,Management,80000,3399.99,14-Jun-21
+3,Ruben,Torres,Partial College,Skilled Manual,50000,699.0982,28-Aug-21
+4,Christy,Zhu,Bachelors,Professional,80000,3078.27,30-May-21
+5,Rob,Huang,High School,Skilled Manual,60000,2319.99,22-May-21
+6,John,Ruiz,Bachelors,Professional,70000,539.99,11-May-21
+7,John,Miller,Masters Degree,Management,80000,2320.49,24-Jul-21
+8,Christy,  Mehta,Partial High School,Clerical,50000,24.99,28-Sep-21
+9,Rob,Verhoff,Partial High School,Clerical,45000,24.99,29-Nov-21
+10,Christy,Carlson,Graduate Degree,Management,70000,2234.99,17-Jan-22
+11,Gail,Erickson,Education,Professional,90000,4319.99,13-Oct-21
+12,Barry,Johnson,Education,Management,80000,4968.59,12-Dec-21
+13,Peter,Krebs,Graduate Degree,Clerical,50000,59.53,06-Oct-21
+14,Greg,Alderson,Partial High School,Clerical,45000,23.5,01-Nov-21
