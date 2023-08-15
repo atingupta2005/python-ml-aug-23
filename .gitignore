@@ -1,15 +1,25 @@
-*Finance*
-*Finance*/*
+**/Solution*
+**/solution*
 **/*Finance*
-**/*Finance*/*
 **/*.pyc
+**/*.pptx
 Recycled/*
 **/Recycled/*
+**/Future/*
+Future/*
+*Optional*
+**/*Optional*
+*Skip*
+**/*Skip*
+*Pending*
+**/*Pending*
 **/Debug
 **/debug
 **/Bin
 **/bin
 **/*.exe
+**Extra**
+**/**Extra**
 **/*.ipynb_checkpoints
 
 # Terraform Files and Folders
